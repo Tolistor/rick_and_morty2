@@ -1,0 +1,42 @@
+.contendor {       
+    background: rgb(3, 35, 54);
+    padding: 15px;
+    color: #f3f3f3;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: space-between; */
+    /* text-align: center; */
+    width: 400px;
+    height: 550px;
+    margin: 0 auto;
+    margin-top: 20px ;
+    border-radius: 25px;
+    /* box-shadow: 0.5px 10px #fff; */
+} 
+
+
+.parrafos{
+    margin-top: 15px;
+}
+
+.img{
+    margin-top: 20px
+}
+
+.titulo{
+    font-size: 30px;
+    color: blueviolet;
+}
+
+/* background-color: red;
+
+width: 400px;
+height: 550px;
+margin: 0 auto;
+border-radius: 25px;
+opacity:calc(90%); */
+/* } */
+
+/* .img{
+    width: 150px;
+}  */

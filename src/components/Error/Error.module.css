@@ -1,0 +1,17 @@
+
+
+.contenedor{
+    
+    background-color: red;
+    margin: 0 auto;
+    border-radius: 25px;
+    width:1050px;
+    height: 550px;
+    top: 0 auto;
+}
+
+.texto{
+    
+    font-size: 200px;
+    
+}
