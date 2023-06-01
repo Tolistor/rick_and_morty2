@@ -1,6 +1,12 @@
 const express = require("express");
 const router = require("./routes/index");
 const morgan = require("morgan");
+
+const { conn } = require("./DB_connection");
+
+//?sincronizamos
+conn.sync({ force: false });
+
 //?creamos el erver
 const server = express();
 //? puerto
